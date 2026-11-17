@@ -22,3 +22,5 @@ from .cumulative_accuracies import *
 from .r2 import *
 from .rmse import *
 from .regression_forgetting import *
+from .learning_rate import *
+from .ssl_accuracy import *
