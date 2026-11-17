@@ -1,5 +1,4 @@
 import torch
-from mpl_toolkits.mplot3d.proj3d import transform
 from torchvision import transforms
 
 from avalanche.benchmarks.utils.self_supervised.base_transform import BaseTransformation
